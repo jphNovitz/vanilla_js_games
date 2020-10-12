@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+.container{
+    width: 63vh;
+    height: 63vh;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto auto;
+}
+
+.container div{
+    width: 20vh;
+    height: 20vh;
+    border: solid .2px yellow;
+    background-color:green;
+    background-size: cover;
+}
